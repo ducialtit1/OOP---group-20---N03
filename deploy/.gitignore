@@ -1,0 +1,27 @@
+# Ignore class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle build directory
+target/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
